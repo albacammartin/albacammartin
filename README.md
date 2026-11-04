@@ -22,8 +22,8 @@
 
 ### 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
+| Proyecto| Tecnologías |
+|---|---|
 | [tinta-negra-studio](https://github.com/albacammartin/tinta-negra-studio) | HTML, CSS |
 | [Hyrule-film](https://github.com/albacammartin/Hyrule-film)| HTML, CSS |
 | [trabajo-html-animecase](https://github.com/albacammartin/trabajo-html-animecase)| HTML, CSS |
